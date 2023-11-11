@@ -2,6 +2,6 @@ LINK_CHALLENGE = 'https://developer.automationanywhere.com/challenges/automation
 
 LINK_API = 'https://botgames-employee-data-migration-vwsrh7tyda-uc.a.run.app/employees?id='
 
-PATH_FILE = "C:\\Users\\Lucas\\Desktop\\Python\\DesafiosRPA\\EmployeeDataMigration\\File_Path\\"
+PATH_FILE = ""
 
 NAME_PROGRAM = 'EmployeeList'
